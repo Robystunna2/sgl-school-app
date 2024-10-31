@@ -161,6 +161,3 @@ Each user role will have specific permissions, ensuring access is limited to wha
 
 ---
 
-### Summary
-
-The app provides a secure, centralized platform for school management, connecting administrators, teachers, students, and parents in a user-friendly interface. With built-in scalability, data security, and advanced communication tools, it’s a modern, comprehensive solution tailored to educational institutions of all sizes.
