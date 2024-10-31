@@ -1,7 +1,4 @@
-# sgl-school-app
-
-
-# School Management App: Comprehensive Guide for Developers
+# School Management App:
 
 Here’s an in-depth guide for developers, detailing roles, core features, advanced functionality, and technical requirements to structure the app effectively and maintain an organized codebase.
 
